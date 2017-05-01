@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "651050221730",
+    "firebase_url": "https://analytics-demoapp.firebaseio.com",
+    "project_id": "analytics-demoapp",
+    "storage_bucket": "analytics-demoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651050221730:android:41fea0062d28e728",
+        "android_client_info": {
+          "package_name": "net.dcarpio.firebaseanalyticsdemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651050221730-k7298ke3jom2v9naa4m50nm0am6o74ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5oUlajbYUM4Br9G30F0deaZMlQ2xMuk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
